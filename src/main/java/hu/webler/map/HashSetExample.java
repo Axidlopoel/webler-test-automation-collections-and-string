@@ -3,7 +3,7 @@ package hu.webler.map;
 import java.util.HashMap;
 import java.util.Map;
 
-public class HashMapExample {
+public class HashSetExample {
 
     public static void main(String[] args) {
 
